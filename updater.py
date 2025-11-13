@@ -1,6 +1,6 @@
 import urequests, os, machine
 
-REPO_BASE = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/pico-weather-map/main/"
+REPO_BASE = "https://raw.githubusercontent.com/hughgoodbody/automatic-octo-bassoon-map/main/"
 FILES_TO_UPDATE = ["main.py", "functions.py", "data.py"]
 LOCAL_VERSION_FILE = "version.txt"
 
